@@ -1,0 +1,27 @@
+#7F40C2
+#6C4C8F
+#851FF5
+#4F435C
+#302C33
+
+Um pouco de mim
+ Fala galera, meu nome é vinicius e estou aqui para contar um pouco da minha trajetoria profissional, mas antes de tudo deixa eu me apresentar
+ me chamo vinicius, nasci no rio de janeiro-rj e vivo aqui ate hoje. Estudei a minha infancia em colegio publico e durante a  minha adolecencia comecei a estudar em uma escola particular gracas aos meus pais que sempre batalharam para me propor uma excelente educacao e sempre serei grato a eles! 
+ 
+ Minha trajetoria
+ Agora vou explicar um pouco da minha trajetoria profissional/academica hoje em dia. Faco Engenharia de computacao pela Veiga de almeida, estou cursando o meu quinto perido e quando voces leem isso devem achar que ja sei bastante coisa, mas na realidade nao sei ou nao sabia, eu tive muita dificuldade de me achar assim que entrei na faculdade, antes de voce entrar voce tem uma visao mas quando entra tem outra visao, quando entrei achei que eu iria arrazr em programacao, mas quebrei a cara batendo com toda forca na parede, pois achei que ia ser mole por eu saber bastante de computadores, programas, mas na verdade fui bobo em achar isso e ta tudo bem, pois isso me fez enchegar as coisas com outro olhos, me mostrou a forma certa de estudar as linguagens de programacao, mas mesmo sabendo estudar eu estav passando por outra duvida que era "sera que essa linguagem e a que eu quero?" e nao sabendo a resposta fui um bobo novamente, pois fiquei pulando de linguagem em liguagem e comprando cursos, livros dessa linguagens e isso fazia perder tempo, pois eu nunca terminnava o curso, o livro ou seja eu nao aprendia aquela linguiagem completamente e se aprendia eu esquecia devido a esse pula pula. Mas novamente isso foi bom pois descobri que na verdade eu nao deveria escolher uma linguagem e sim  que eu deveria escolher entre back-end e front-end e para chegar a essa conclusao se foram quase 3 anos de pesquisa, para descobrir oque eu queria fazer e nesse meio tempo dava vontade de jogar tudo para alto e desistir e buscar outra coisa, mas gracas a deus descobri canais invreveis em 2023, ano em que eu falei que iria aprender de vez a programar, entao busquei canais que poderiam tirar essas minhas duvidas e que pudessem me passar um conhecimento para que eu conseguisse caminhar sozinho e sem duvidas e alguns desses canais foram cursoemvideo, Código Fonte TV, Lucas Montano, Fernanda Kipper, Rafaella Ballerini, Attekita Dev e gracas a essas pessoa descobri o que eu quero fazer nesse meu inicio de desenvolvedor, que e ser um desnvolvedor front-end e gracas ao curso maravilhoso do gustavo guanabara estou conseguindo seguindo aprender da melhor forma, esse cara merece todo o reconhecimento do mundo, pela sua didatica e pelo seu carisma, serei grato sempre a ele por fazer crusos espetaculars e gratuitos, as vezes e ate difcil achar um curso pago no nivel dele, assim como ele todos esse canais que eu citei merecem tambem o reconhecimento por explicar de forma espetacular de como a area de ti funiona. Obrigado a todos por me fazer enchegar novamente essa luz no finnal do tunel, agora consigo caminhar e quem sabe sair dele e encontrar um mar de possibilidade!
+
+
+ Um Pouco Sobre Mim:
+Fala galera, meu nome é Vinícius, sou do Rio de Janeiro-RJ e estou aqui para compartilhar um pouco da minha trajetória profissional. Antes de entrar nos detalhes, permitam-me apresentar-me. Estudei minha infância em escola pública e, durante a adolescência, comecei a frequentar uma escola particular, graças aos meus pais que sempre lutaram por proporcionar-me uma excelente educação. Serei eternamente grato a eles!
+
+Minha Trajetória Profissional/Acadêmica:
+Atualmente, estou cursando Engenharia de Computação na Veiga de Almeida, no quinto período. Quando vocês leem isso, podem pensar que já sei bastante, mas na realidade, tive dificuldades no início da faculdade. Achava que dominaria a programação por entender bastante de computadores, mas logo percebi que não seria tão fácil. Isso me fez enxergar as coisas de outra forma, aprendi a estudar as linguagens de programação da maneira certa.
+
+Ainda enfrentei a dúvida de qual linguagem escolher, pulando de uma para outra e comprando cursos, o que resultava em perda de tempo. Com o tempo, percebi que deveria escolher entre back-end e front-end, uma conclusão que demandou quase três anos de pesquisa. Em 2023, descobri canais incríveis que me ajudaram a definir meu caminho, como cursoemvideo, Código Fonte TV, Lucas Montano, Fernanda Kipper, Rafaella Ballerini, Attekita Dev. Um agradecimento especial ao Gustavo Guanabara por seu curso maravilhoso, que me permitiu aprender de forma eficaz. Sua didática e carisma merecem todo reconhecimento.
+
+Graças a essas pessoas, descobri minha paixão: ser um desenvolvedor front-end. Agradeço a todos por me mostrarem a luz no fim do túnel. Agora consigo caminhar com confiança, explorar um mar de possibilidades!
+ 
+ 
+ 
+ 
