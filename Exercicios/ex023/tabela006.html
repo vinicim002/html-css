@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabelas Responsivas</title>
     <style>
+        /*Para alterar o espaço entre as células da tabela, use a border-spacingpropriedade CSS do table elemento:*/
+        /*Use o :hoverseletor ativado trpara destacar as linhas da tabela ao passar o mouse:*/
         body{
             font-family: Arial, Helvetica, sans-serif;
         }
@@ -30,6 +32,10 @@
 
         div#container{
             overflow-x: auto;
+        }
+
+        tr:hover{
+            background-color: rgba(0, 255, 255, 0.342);
         }
 
     </style>
@@ -168,3 +174,4 @@
     </div>
 </body>
 </html>
+
