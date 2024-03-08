@@ -5,11 +5,11 @@
     height: 500px;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     /*flex-flow: row nowrap;*/
     justify-content: flex-start;
     align-items: stretch;
-    align-content: stretch;
+    /*align-content: flex-start;*/
 }
 
 .item{
@@ -17,5 +17,14 @@
     color: #fff;
     padding: 20px;
     margin: 5px;
-    width: 200px;
+    height: 30px;
+
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 300px;
+
+    flex: 1 1 300px;
 }
+
+.article-01{flex-shrink: 3;}
+
