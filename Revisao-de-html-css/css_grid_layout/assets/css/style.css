@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/*
+Um Grid Layout deve ter um elemento pai com a propriedade display definida como grid ou inline-grid .
+*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+
+    /*
+
+    Podemos ajustar o tamanho do intervalo entre (coluna X coluna / linha X linha ou linha X coluna) usando as seguinte propiedades:
+
+    -column-gap
+    -row-gap
+    -gap
+
+    */
+
+    /*A column-gappropriedade define o intervalo entre as colunas:*/
+
+    /* column-gap: 50px; */
+
+    /*A row-gappropriedade define o intervalo entre as linhas:*/
+
+    /* row-gap:50px; */
+
+    /*
+
+    A gap propriedade é uma propriedade abreviada para row-gape as column-gap propriedades: -> eh um shorthand
+
+    */
+
+        /*row*//*column*/
+    gap: 50px 100px; /*E se deixar apenas um valor ele ira valer para os dois*/
+       
+}
+
+.grid-item{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
