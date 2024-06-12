@@ -24,7 +24,7 @@
 
     * align-items:center / flex-start / flex-end / stretch / baseline;
 
-    - align-content -> A align-contentpropriedade é usada para alinhar as linhas flexíveis.
+    - align-content -> A align-content propriedade é usada para alinhar as linhas flexíveis.
 
     * align-content: space-between / space-around / stretch (padrao) / center / flex-start / flex-end;
 
