@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+/*
+    - order -> A order propriedade especifica a ordem dos itens flexíveis.
+
+    * style = "order: number"
+
+    - flex-grow ->A flex-grow propriedade especifica quanto um item flexível crescerá em relação ao restante dos itens flexíveis.
+
+    * style="flex-grow: tamanho"
+
+    - flex-shrink -> A flex-shrink propriedade especifica quanto um item flexível diminuirá em relação ao restante dos itens flexíveis.
+
+    * style="flex-shrink: 0;"
+
+    - flex-basis -> A flex-basis propriedade especifica o comprimento inicial de um item flexível.
+
+    * style="flex-basis: 200px;"
+
+    - flex -> A flex propriedade é uma propriedade abreviada para as propriedades flex-grow, flex-shrinke flex-basis.
+
+    * style="flex: 0 0 200px"
+
+    - align-self -> A align-self propriedade especifica o alinhamento do item selecionado dentro do contêiner flexível.
+    
+    -               A propriedade substitui o alinhamento padrão definido pela propriedade align-self do contêiner .align-items    
+
+    * style="align-self: flex-start / center / flex-end;"
+*/
+
+.flex-container{
+    display: flex;
+    height: 200px;
+    align-items: stretch;
+    background-color: #c4c2c2;
+}
+
+.flex-container > div{
+    background-color: dodgerblue;
+    color: white;
+    width: 100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+}
