@@ -1,1 +1,136 @@
 @charset "UTF-8";
+
+/*
+    As propriedades do flex container são:
+
+    - flex-direction -> A flex-direction propriedade define em qual direção o contêiner deseja empilhar os flex items.
+
+    * flex-direction: column  / column-reverse / row / row-reverse;
+
+    - flex-wrap -> A flex-wrap propriedade especifica se os itens flexíveis devem ser agrupados ou não.
+
+    * flex-wrap: wrap / nowrap (padrao) / wrap-reverse / ;
+
+    - flex-flow -> A flex-flow propriedade é uma propriedade abreviada para definir as propriedades flex-directione flex-wrap.
+
+    * flex-flow: row wrap;
+
+
+    - justify-content -> A justify-contentpropriedade é usada para alinhar os itens flexíveis:
+
+    * justify-content: center / flex-start / flex-end / space-around / space-between;
+
+    - align-items -> A align-itemspropriedade é usada para alinhar os itens flexíveis.
+
+    * align-items:center / flex-start / flex-end / stretch / baseline;
+
+    - align-content -> A align-contentpropriedade é usada para alinhar as linhas flexíveis.
+
+    * align-content: space-between / space-around / stretch (padrao) / center / flex-start / flex-end;
+
+    justify-content "anda no eixo x"
+    align-item "anda no eixo y"
+
+*/
+.flex-container{
+    display: flex;
+
+    /* 
+    flex-direction: row;
+    flex-wrap: wrap-reverse; 
+    */
+    flex-flow: row wrap;
+
+    background-color: dodgerBlue;
+
+    margin-bottom: 50px;
+}
+
+.flex-container > div {
+    background-color: #f1f1f1;
+    width:100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    background-color: dodgerBlue;
+    margin-bottom: 50px;
+
+}
+
+.flex-container2 > div {
+    background-color: #f1f1f1;
+    width:100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.flex-container3{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    background-color: dodgerBlue;
+    margin-bottom: 50px;
+
+}
+
+.flex-container3 > div {
+    background-color: #f1f1f1;
+    width:100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.flex-container4{
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    background-color: dodgerBlue;
+    margin-bottom: 50px;
+    
+
+}
+
+.flex-container4 > div {
+    background-color: #f1f1f1;
+    width:100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.flex-container5{
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    background-color: dodgerBlue;
+    
+
+}
+
+.flex-container5 > div {
+    background-color: #f1f1f1;
+    width:100px;
+    margin: 10px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+    
+}
